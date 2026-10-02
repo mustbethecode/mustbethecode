@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**mustbethecode/mustbethecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is GWA and I'm a web content manager, from Korea
 
-Here are some ideas to get you started:
+## About me
+- Creating bugs since 2019
+- 📚 I'm currently learning IT support
+- 🎯 Goals: 
+- 🎲 Fun fact:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I code with
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
