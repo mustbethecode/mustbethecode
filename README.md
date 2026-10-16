@@ -4,9 +4,6 @@ My name is GWA and I'm a web content manager, from Korea
 
 ## About me
 - Creating bugs since 2019
-- 📚 I'm currently learning IT support
-- 🎯 Goals: 
-- 🎲 Fun fact:
 
 ## I code with
 <div data-importer="techs" align="left">
